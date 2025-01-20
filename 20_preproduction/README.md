@@ -1,6 +1,7 @@
 # Préproduction
 
  <!-- start-replace-subnav -->  
+* [Gestion de projet](/20_preproduction/00_gestion/)
 * [Scenarisation](/20_preproduction/10_scenarisation/)
 * [Ambiance](/20_preproduction/20_ambiance/)
 * [Scenarimage](/20_preproduction/30_scenarimage/)
@@ -10,5 +11,4 @@
 * [Simulation](/20_preproduction/70_simulation/)
 * [Contenu multimédia](/20_preproduction/80_multimedia/)
 * [Budget](/20_preproduction/90_budget/)
-* [Échéancier](/20_preproduction/91_echeancier/)
  <!-- end-replace-subnav -->

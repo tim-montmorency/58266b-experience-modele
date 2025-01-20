@@ -1,40 +1,13 @@
-# Échéancier
+# Gestion de projet
 
-## Gantt
+* Utilisez les fonctions de suivi de Projet dans github
 
-```mermaid
-gantt
-    title Planification du projet
-    dateFormat  DD-MM
-    section Préproduction
-    Présentation et validation des équipes       :done,   p1, 20-01, 24-01
-    Conception univers et ambiance               :done,   p2, 20-01, 24-01
-    Planification contenu multimédia             :done,   p3, 20-01, 24-01
-    Planification technique et production        :active, p4, 27-01, 31-01
-    Planification budget et échéancier           :p5,     27-01, 31-01
-    Planification promotion projet               :p6,     27-01, 31-01
-    section Vidéo d'intention
-    Production vidéo intention                   :p7,     27-01, 31-01
-    Mise en ligne vidéo intention                :p8,     03-02, 07-02
-    Visionnement et validation                   :p9,     03-02, 07-02
-    section Développement
-    Itération maquette                           :p10,    10-02, 14-02
-    Intégration médias et programmation          :p11,    10-02, 14-02
-    Adaptation plateformes et tests              :p12,    10-02, 14-02
-    section Projet Final
-    Preuve de concept et maquette fonctionnelle  :p13,    17-02, 21-02
-    Création de contenus et intégration         :p14,    17-02, 21-02
-    Installation et optimisation                 :p15,    24-02, 28-02
-    Tests et solutions aux problèmes             :p16,    03-03, 07-03
-    section Finalisation
-    Pratique générale et rigueur                 :p17,    10-03, 14-03
-    Présentation informelle                      :p18,    12-03, 13-03
-    Mise en ligne des projets                    :p19,    10-03, 14-03
-    section Clôture
-    Documentation finale et archivage            :p20,    17-03, 21-03
-    Présentation finale et évaluation            :p21,    17-03, 21-03
-    Démontage et rangement                       :p22,    21-03, 21-03
-```
+* Plus précisément, le modèle "Product Launch" (Lancement de produit) 
+
+* Mettre des liens vers votre outil de gestion de projets ici  
+
+
+
 
 ## Tableau par semaine
 
