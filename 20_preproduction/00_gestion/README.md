@@ -24,12 +24,3 @@
 | 8       | 17-21 Mars    | Documentation finale et archivage               | LUNDI au VENDREDI : Présentation et documentation des projets. VENDREDI MATIN : Évaluation sommative de la contribution individuelle au travail d’équipe. VENDREDI : Démontage et rangement. |
 
 
-## Tableau des évaluations
-
-| Description de l’évaluation                          | Savoirs essentiels / Principaux critères d’évaluation | Date de l’évaluation ou de la remise | Pondération |
-|----------------------------------------------------|------------------------------------------------------|------------------------------------|-------------|
-| **Conception et planification** (Documentation Web et vidéo d’intention) | Intention et concept clair, proposition artistique originale et recherchée, description approfondie de la conception sonore et visuelle, planification détaillée du contenu multimédia à intégrer, planification technique rigoureuse, documentation de la boucle interactive (game loop), qualité visuelle et sonore de la documentation vidéo. Vidéo d’au maximum 5 minutes. | Lundi de la semaine 3 | 15 % |
-| **Maquette fonctionnelle** (Présentation de la maquette) | Maquette fonctionnelle avec des médias visuels et sonores substituables et temporaires. | Lundi de la semaine 5 | 30 % |
-| **Intégration des apprentissages** (Réaliser et diffuser une expérience interactive - Présentation pendant la semaine) | Aptitudes professionnelles pertinentes et recherchées, démonstration des habiletés et compétences, opération rigoureuse de validation de la qualité, exécution technique précise et achevée, projet artistique riche, inventif et recherché, évaluation de la contribution individuelle au travail d’équipe (Vendredi : évaluation des coéquipiers). | Du lundi au vendredi de la semaine 8 | 35 % * |
-| **Documentation en ligne** (Documentation Web, vidéo bande annonce, vidéo « making of ») | Documentation du projet et archivage de qualité, réalisation de 2 vidéos : une bande annonce courte et une autre de type « making of » plus longue, démonstration claire de la boucle interactive (game loop), qualité visuelle et sonore de la documentation vidéo. | Vendredi de la semaine 8 | 20 % * |
-| **Total** | | | **100 %** |
