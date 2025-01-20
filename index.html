@@ -48,6 +48,16 @@
             loadSidebar: true,    // Enable sidebar loading
             subMaxLevel: 4,       // Adjust the level to include in TOC
             relativePath: true, // relative path enable
+            search: 'auto', 
+
+            search: {
+            paths: 'auto',
+            placeholder: '       🔎',
+            noData: '📭',
+            // Headline depth, 1 - 6
+            depth: 6,
+            hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        },
             pagination: {
                 previousText: '',
                 nextText: '',
@@ -109,7 +119,7 @@
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="https://gllmar.github.io/docsify-github-tracker/docsify-github-tracker.js"></script>
     <script src="https://gllmar.github.io/docsify-img-caption/docsify-img-caption.js"></script>
-
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 
 </html>
