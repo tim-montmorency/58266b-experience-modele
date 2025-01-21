@@ -3,4 +3,7 @@
 Documentation du projet finalisé 
 
 * Gallerie d'images
-* vidéo 
+
+* Vidéo 
+
+manuel d'instruction pour opération
