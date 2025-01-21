@@ -1,16 +1,10 @@
 # Équipe
 
+<!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
 
-* Rôles et responsabilités des membres de l'équipe
+* [![Membre_V]( https://fakeimg.pl/400x400?text=V)](membre_v/)
+* [![Membre_W]( https://fakeimg.pl/400x400?text=W)](membre_w/)
+* [![Membre_X]( https://fakeimg.pl/400x400?text=X)](membre_x/)
+* [![Membre_Y]( https://fakeimg.pl/400x400?text=Y)](membre_y/)
+* [![Membre_Z]( https://fakeimg.pl/400x400?text=Z)](membre_Z/)
 
-
-
-## liste autogénérée via script
-
-<!-- start-replace-subnav -->
-* [Membre_V](/10_equipe/membre_v/)
-* [Membre W](/10_equipe/membre_w/)
-* [Membre X](/10_equipe/membre_x/)
-* [Membre Y](/10_equipe/membre_y/)
-* [Membre Z](/10_equipe/membre_z/)
-<!-- end-replace-subnav -->
