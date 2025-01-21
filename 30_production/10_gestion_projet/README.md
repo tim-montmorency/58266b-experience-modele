@@ -8,7 +8,6 @@
 
 
 
-
 ## Tableau par semaine
 
 | Semaine | Dates          | À préparer durant la semaine                           | Savoirs essentiels / Activités en classe |

@@ -8,7 +8,7 @@
   * [Synopsis](/20_intention/10_synopsis/)
   * [Ambiance](/20_intention/20_ambiance/)
   * [Scénario](/20_intention/30_scenario/)
-  * [Scenarimage](/20_intention/40_scenarimage/)
+  * [Scénarimage](/20_intention/40_scenarimage/)
 * [Préproduction](/30_production/)
   * [Gestion de projet](/30_production/10_gestion_projet/)
   * [Budget](/30_production/20_budget/)
