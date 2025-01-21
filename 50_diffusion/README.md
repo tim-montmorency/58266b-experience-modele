@@ -10,4 +10,6 @@ Documentation du projet finalisé
 
 * Vidéo 
 
+* Documentation vidéo de l'installation en action
+
 * Manuel d'instruction pour opération
